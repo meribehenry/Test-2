@@ -1,0 +1,1 @@
+print("hi i am the new ai, what is on your mind")
